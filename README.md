@@ -1,5 +1,21 @@
 # configurando-instancia
 
+## 🧠 Entendendo o Desafio
+
+Este projeto foi desenvolvido como parte de um desafio prático da plataforma DIO, com foco na criação de arquiteturas em nuvem utilizando o Microsoft Azure. A proposta consistia em aplicar, de forma prática, os conceitos abordados nas aulas — como provisionamento de recursos, configuração de redes virtuais, regras de segurança, e integração de serviços — dentro de um cenário simulado de infraestrutura.
+
+Durante o laboratório, explorei o portal do Azure para me familiarizar com sua interface e fluxos de navegação. Em seguida, iniciei a criação dos principais componentes da arquitetura, como:
+
+- Grupos de recursos;
+- Máquinas virtuais;
+- Redes virtuais (VNet);
+- Regras de segurança (NSG);
+- Configuração de acesso remoto via RDP;
+- Armazenamento e monitoramento.
+
+Todo o processo foi documentado neste repositório, com o objetivo de registrar a experiência, reforçar o aprendizado e compartilhar boas práticas. O projeto também representa mais um passo na construção do meu portfólio técnico, servindo como base para futuras implementações em ambientes de produção ou estudos mais avançados sobre computação em nuvem.
+
+
 # Desafio: Configuração de uma Instância de Banco de Dados no Microsoft Azure
 
 ## 💡 Objetivo
